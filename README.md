@@ -5,7 +5,7 @@ Costa Rica
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-Last updated: 2025-01-16
+Last updated: 2025-08-05
 
 ----------
 
@@ -14,6 +14,8 @@ Last updated: 2025-01-16
 
 ## Content
 
+- [Design and Prepare Machine Learning Solutions](./0_DesignMLSolutions-questions.md)
+- [Explore Data and Run Experiments](./1_ExploreDataExperiments-questions.md)
 
 ## Skills measured
 
