@@ -274,8 +274,8 @@ ml_client.compute.begin_create_or_update(compute_cluster)
 
 <!-- START BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20views-1290-limegreen" alt="Total views">
-  <p>Refresh Date: 2025-08-04</p>
+  <img src="https://img.shields.io/badge/Total%20views-38-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-08-05</p>
 </div>
 <!-- END BADGE -->
 
