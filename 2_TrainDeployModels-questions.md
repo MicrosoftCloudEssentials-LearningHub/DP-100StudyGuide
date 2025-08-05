@@ -381,7 +381,9 @@ ml_client.jobs.create_or_update(pipeline_job)
 
 2. **Model Deployment**:
    - Test deployments in staging before production
-   - Use blue-green deployments for safe rollouts
+   - Use blue-green deployments for safe rollouts. E.g `you want to perform a canary rollout: send 10% of real-time inference requests to blue and 90% to green.` 
+        - **“blue”** → the new candidate model  
+        - **“green”** → the current production model  
    - Monitor endpoint performance and costs
 
 3. **Responsible AI**:
