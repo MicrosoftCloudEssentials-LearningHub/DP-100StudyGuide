@@ -16,6 +16,7 @@ Last updated: 2025-08-05
 
 - [Design and Prepare Machine Learning Solutions](./0_DesignMLSolutions-questions.md)
 - [Explore Data and Run Experiments](./1_ExploreDataExperiments-questions.md)
+- [Train and Deploy Models](./2_TrainDeployModels-questions.md)
 
 ## Skills measured
 
