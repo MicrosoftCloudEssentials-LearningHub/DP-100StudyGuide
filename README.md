@@ -17,6 +17,7 @@ Last updated: 2025-08-05
 - [Design and Prepare Machine Learning Solutions](./0_DesignMLSolutions-questions.md)
 - [Explore Data and Run Experiments](./1_ExploreDataExperiments-questions.md)
 - [Train and Deploy Models](./2_TrainDeployModels-questions.md)
+- [Optimize Language Models for AI Applications](./3_OptimizeLanguageModels-questions.md)
 
 ## Skills measured
 
@@ -34,7 +35,7 @@ Last updated: 2025-08-05
 
 <!-- START BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20views-38-limegreen" alt="Total views">
+  <img src="https://img.shields.io/badge/Total%20views-1391-limegreen" alt="Total views">
   <p>Refresh Date: 2025-08-05</p>
 </div>
 <!-- END BADGE -->
