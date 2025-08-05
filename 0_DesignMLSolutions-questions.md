@@ -1,9 +1,9 @@
-# Design and Prepare Machine Learning Solutions: DP-100 Study Guide
+# Design and Prepare Machine Learning Solutions: Sample Questions and Answers
 
 Costa Rica
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[MicrosoftCloudEssentials-LearningHub](https://github.com/MicrosoftCloudEssentials-LearningHub)
+[brown9804](https://github.com/brown9804)
 
 Last updated: 2025-01-04
 
