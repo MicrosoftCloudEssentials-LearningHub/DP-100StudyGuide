@@ -12,6 +12,14 @@ Last updated: 2025-08-05
 > [!NOTE]
 > The questions and answers provided in this study guide are for practice purposes only and are not official practice questions. They are intended to help you prepare for the [DP-900 Microsoft certification exam](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-100). For additional preparation materials and the most up-to-date information, please refer to the [official Microsoft documentation](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/?practice-assessment-type=certification).
 
+<details>
+<summary><b>List of References </b> (Click to expand)</summary>
+
+- [Azure OpenAI in Azure AI Foundry Models quotas and limits](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/quotas-limits?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext&tabs=REST)
+- [Deployment types for Azure AI Foundry Models](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/deployment-types#azure-ai-foundry-deployment-data-processing-locations)
+
+</details>
+
 ## Content
 
 - [Design and Prepare Machine Learning Solutions](./0_DesignMLSolutions-questions.md)
