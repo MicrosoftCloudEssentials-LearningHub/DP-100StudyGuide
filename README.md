@@ -17,6 +17,9 @@ Last updated: 2025-08-05
 
 - [Azure OpenAI in Azure AI Foundry Models quotas and limits](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/quotas-limits?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext&tabs=REST)
 - [Deployment types for Azure AI Foundry Models](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/deployment-types#azure-ai-foundry-deployment-data-processing-locations)
+- [Use Azure AI services with SynapseML in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-science/how-to-use-ai-services-with-synapseml)
+- [Plan and manage costs for Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/costs-plan-manage)
+- [Troubleshooting and best practices for Azure OpenAI On Your Data](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/on-your-data-best-practices)
 
 </details>
 
